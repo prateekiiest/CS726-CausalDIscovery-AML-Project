@@ -1,3 +1,3 @@
 # CS 726 Advanced ML Course Project
 
-This contains code pertaining to the Advanced ML Course
+This repository contains code for course project of CS726 Advanced Machine Learning.
